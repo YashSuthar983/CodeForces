@@ -15,9 +15,6 @@ Welcome to my Codeforces Solved Questions repository! This repository contains s
 | **Problems Solved**  | 176 |
 | **Contest Participations** | 10 |
 
-## 📂 Repository Structure
-
-The solutions are organized by difficulty levels and problem categories.
 
 
 
